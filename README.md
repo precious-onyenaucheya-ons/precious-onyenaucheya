@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @precious-onyenaucheya
-- 👀 I’m interested in Data Science and Data Analytics.
-- 🌱 I’m currently learning about data analysis, Visualizations and Statistics.
+- 👀 I’m interested in Software Engineering with C-Sharp.
+- 🌱 I’m currently learning about DotNet Framework with C-Sharp.
+- 🌱 I’m currently working on different projects which i will be sharing here.
+- 👀 I’m also interested in Data Science and Data Analytics.
 - 💞️ I’m looking to collaborate on more Data Science related projects.
 
 <!---
